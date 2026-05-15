@@ -1,3 +1,33 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Prudhvi%20Chalakanti&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Aspiring+MERN+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;CSE'28+%40+JNTUK+%F0%9F%8E%93;DSA+Problem+Solver+%F0%9F%8E%AF;Building+Responsive+Web+Apps+%F0%9F%9A%80;Open+to+Internships+%F0%9F%91%8B" alt="Typing SVG" />
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/prudhvichalakanti-0b92b533b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://ChalakantiPrudhvi.github.io/MyPortfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ChalakantiPrudhvi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 # 💫 About Me:
 Passionate web developer with experience in React, Node.js, and full-stack development. Strong in problem-solving and data structures, with a focus on building responsive and user-friendly applications. Always eager to learn, grow, and contribute to impactful projects.
 
